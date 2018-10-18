@@ -1,0 +1,25 @@
+.Warna {
+    color: black;
+}
+.Tebal {
+    font-style: inherit;
+}
+
+body{
+    background: rgb(163, 195, 255);
+    margin-top: 3 cm; margin-left: 3 cm; margin-right: 3 cm; margin-bottom: 3cm;
+    text-align: center;
+}
+a:link{
+    color:yellow;
+    font-style: oblique;
+}
+a:hover{
+    color: palevioletred;
+}
+a:active{
+    color:green;
+}
+a:visited{
+    color:blue;
+}
